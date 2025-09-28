@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "car-front",
+      "description": "Front view of the Porsche 911",
+      "imageUrl": "https://images.unsplash.com/photo-1685914375152-ad1560ddf3ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cG9yc2NoZSUyMGZyb250fGVufDB8fHx8MTc1OTA0MjY0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "porsche front"
+    },
+    {
+      "id": "car-side",
+      "description": "Side view of the Porsche 911",
+      "imageUrl": "https://images.unsplash.com/photo-1592800638244-08f97d1e8a1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwb3JzY2hlJTIwc2lkZXxlbnwwfHx8fDE3NTg5NjYxMDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "porsche side"
+    },
+    {
+      "id": "car-interior",
+      "description": "Interior of the Porsche 911",
+      "imageUrl": "https://images.unsplash.com/photo-1678106955993-73917eefd767?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwb3JzY2hlJTIwaW50ZXJpb3J8ZW58MHx8fHwxNzU5MDQyNjQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "porsche interior"
+    },
+    {
+      "id": "car-rear",
+      "description": "Rear view of the Porsche 911",
+      "imageUrl": "https://images.unsplash.com/photo-1682367054258-3db6e59a215b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwb3JzY2hlJTIwcmVhcnxlbnwwfHx8fDE3NTkwNDI2NDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "porsche rear"
+    }
+  ]
+}
