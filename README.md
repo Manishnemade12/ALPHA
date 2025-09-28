@@ -1,4 +1,5 @@
-# AutoSpin 360 - Interactive Car Showcase
+# 
+ALPHA - Interactive Car Showcase
 
 Welcome to AutoSpin 360! This is a Next.js application designed to provide an interactive and engaging showcase for automobiles. It's built with modern web technologies to deliver a rich user experience.
 
